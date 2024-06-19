@@ -1,6 +1,6 @@
 # 6502 Processor
 
-Created using [Digital]([url](https://github.com/hneemann/Digital/tree/master)), a digital logic designer and simulator. This project mimics a subset of the original 6502 Processor.
+Created using [Digital](https://github.com/hneemann/Digital/tree/master), a digital logic designer and simulator. This project mimics a subset of the original 6502 Processor.
 
 ## Milestones
 
@@ -29,6 +29,6 @@ Control lines 72-74 are unused, as they were not explained in the document.
 The values for the ROM chips are not given, so nothing is encoded into the chips. The opcodes for the RAM (Milestone 7) are also left blank.
 
 ## Resources 
-[Instruction set]([url](https://www.masswerk.at/6502/6502_instruction_set.html))
-[Opcodes]([url](http://www.6502.org/tutorials/6502opcodes.html))
-[Hanson's Block Diagram]([url](https://www.witwright.com/DonPub/6502-Block-Diagram.pdf))
+[Instruction set](https://www.masswerk.at/6502/6502_instruction_set.html)
+[Opcodes](http://www.6502.org/tutorials/6502opcodes.html)
+[Hanson's Block Diagram](https://www.witwright.com/DonPub/6502-Block-Diagram.pdf)
