@@ -30,5 +30,8 @@ The values for the ROM chips are not given, so nothing is encoded into the chips
 
 ## Resources 
 [Instruction set](https://www.masswerk.at/6502/6502_instruction_set.html)
+
 [Opcodes](http://www.6502.org/tutorials/6502opcodes.html)
+
 [Hanson's Block Diagram](https://www.witwright.com/DonPub/6502-Block-Diagram.pdf)
+
